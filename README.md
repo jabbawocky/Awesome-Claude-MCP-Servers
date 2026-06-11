@@ -87,7 +87,7 @@ Track application performance and errors.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
-- [StatusCraft](https://github.com/jabbawocky/statuscraft) 📱 ☁️ - Live status monitoring for 125 major services (GitHub, AWS, Stripe, OpenAI, etc.) in real time.
+- [StatusCraft](https://github.com/jabbawocky/statuscraft) 📱 ☁️ - Live status monitoring for 141 major services (GitHub, AWS, Stripe, OpenAI, etc.) in real time.
 
 ### Business & Productivity 💼
 Tools for business workflows and professional productivity.
